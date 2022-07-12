@@ -1,6 +1,6 @@
 # Rocket Login Form CSS
 > @rocketseat challenge for front-end beginners: Landing page layout development like Login Form .
-![displayPrint](https://user-images.githubusercontent.com/105434742/178340036-f8b927ca-8e97-4220-a7ed-ffd8f71b654f.png)
+![printFinished](https://user-images.githubusercontent.com/105434742/178443473-7b0a5196-81c2-4ae6-8185-3f1ca3d03b4e.png)
 
 # Links
 <a href="https://app.rocketseat.com.br/discover/challenges/rocket-nfts">Challenge</a>
